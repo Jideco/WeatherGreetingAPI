@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9jsLRYu8XlHahkKXBm3Y0kUkpBQgHMXBnZ+cbqkHdRU=",
+  "Source": "WeatherGreetingAPI",
+  "BasePath": "_content/WeatherGreetingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

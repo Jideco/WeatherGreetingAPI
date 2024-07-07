@@ -1,0 +1,20 @@
+@WeatherGreetingAPI_HostAddress = https://localhost:7254
+
+GET {{WeatherGreetingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{WeatherGreetingAPI_HostAddress}}/api/greeting/hello?visitor_name=string
+Accept: application/json
+  
+
+###
+
+GET {{WeatherGreetingAPI_HostAddress}}/api/greeting/hello?visitor_name=string
+
+###
+
+GET {{WeatherGreetingAPI_HostAddress}}/greeting/hello?visitor_name=string
+Accept: application/json
+###

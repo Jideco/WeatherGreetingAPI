@@ -1,0 +1,15 @@
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\WeatherGreetingAPI.exe
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\WeatherGreetingAPI.dll
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\WeatherGreetingAPI.deps.json
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\WeatherGreetingAPI.runtimeconfig.json
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\WeatherGreetingAPI.pdb
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MECRUN\source\repos\WeatherGreetingAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
